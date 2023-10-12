@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B981B8E3-72DF-43F1-AF2C-55A1AD5B9432"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "514C35CE-CE8E-4121-AC4B-29562C0F2B9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorldOfPAYBACK/UI/Transactions/TransactionListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "getTransactions(filter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "514C35CE-CE8E-4121-AC4B-29562C0F2B9D - bbbbff57af8770d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;WorldOfPAYBACK.Transaction&gt;) -&gt; () in WorldOfPAYBACK.TransactionListViewModel.getTransactions(filter: WorldOfPAYBACK.NetworkFilter) -&gt; ()"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "514C35CE-CE8E-4121-AC4B-29562C0F2B9D - 6289b97026dd7696"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;WorldOfPAYBACK.Transaction&gt;) -&gt; () in WorldOfPAYBACK.TransactionListViewModel.getTransactions(filter: WorldOfPAYBACK.NetworkFilter) -&gt; ()"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "514C35CE-CE8E-4121-AC4B-29562C0F2B9D - bbbbff57af8770b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;WorldOfPAYBACK.Transaction&gt;) -&gt; () in WorldOfPAYBACK.TransactionListViewModel.getTransactions(filter: WorldOfPAYBACK.NetworkFilter) -&gt; ()"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "514C35CE-CE8E-4121-AC4B-29562C0F2B9D - bbbbff57af87732e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;WorldOfPAYBACK.Transaction&gt;) -&gt; () in WorldOfPAYBACK.TransactionListViewModel.getTransactions(filter: WorldOfPAYBACK.NetworkFilter) -&gt; ()"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45EDF6A5-0C53-4E8F-A9D6-5D22D2DC840F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorldOfPAYBACK/UI/Transactions/TransactionListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getTransactions(filter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "45EDF6A5-0C53-4E8F-A9D6-5D22D2DC840F - 25fd3782d55123f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACK.TransactionListViewModel.getTransactions(filter: WorldOfPAYBACK.NetworkFilter) -&gt; ()"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "45EDF6A5-0C53-4E8F-A9D6-5D22D2DC840F - 25fd3782d55123b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACK.TransactionListViewModel.getTransactions(filter: WorldOfPAYBACK.NetworkFilter) -&gt; ()"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "45EDF6A5-0C53-4E8F-A9D6-5D22D2DC840F - 25fd3782d5512316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACK.TransactionListViewModel.getTransactions(filter: WorldOfPAYBACK.NetworkFilter) -&gt; ()"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "45EDF6A5-0C53-4E8F-A9D6-5D22D2DC840F - 25fd3782d5512292"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACK.TransactionListViewModel.getTransactions(filter: WorldOfPAYBACK.NetworkFilter) -&gt; ()"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5AC22F0-2BFC-483C-B8DB-2D95A7D99B81"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorldOfPAYBACK/UI/Transactions/TransactionDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "init(partnerDisplayName:description:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5AC22F0-2BFC-483C-B8DB-2D95A7D99B81 - 5903049cb0e624bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACK.TransactionDetailsView.init(partnerDisplayName: Swift.String, description: Swift.Optional&lt;Swift.String&gt;) -&gt; WorldOfPAYBACK.TransactionDetailsView"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B5AC22F0-2BFC-483C-B8DB-2D95A7D99B81 - 5903049cb0e624ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACK.TransactionDetailsView.init(partnerDisplayName: Swift.String, description: Swift.Optional&lt;Swift.String&gt;) -&gt; WorldOfPAYBACK.TransactionDetailsView"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B5AC22F0-2BFC-483C-B8DB-2D95A7D99B81 - 5903049cb0e624ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACK.TransactionDetailsView.init(partnerDisplayName: Swift.String, description: Swift.Optional&lt;Swift.String&gt;) -&gt; WorldOfPAYBACK.TransactionDetailsView"
+                  moduleName = "WorldOfPAYBACK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACK/UI/Transactions/TransactionDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "013BB46E-ADEF-4FE0-9FD1-AF2588C3E3A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorldOfPAYBACKTests/Mocks/NetworkServiceFailureMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "getAllTransactions(_:filter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "013BB46E-ADEF-4FE0-9FD1-AF2588C3E3A1 - 47ab38dbd819d4e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACKTests.NetworkServiceFailureMock.getAllTransactions(_: Swift.String, filter: WorldOfPAYBACK.NetworkFilter) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;WorldOfPAYBACK.Transaction&gt;, Swift.Error&gt;"
+                  moduleName = "WorldOfPAYBACKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACKTests/Mocks/NetworkServiceFailureMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "013BB46E-ADEF-4FE0-9FD1-AF2588C3E3A1 - 47ab38dbd819d41a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACKTests.NetworkServiceFailureMock.getAllTransactions(_: Swift.String, filter: WorldOfPAYBACK.NetworkFilter) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;WorldOfPAYBACK.Transaction&gt;, Swift.Error&gt;"
+                  moduleName = "WorldOfPAYBACKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACKTests/Mocks/NetworkServiceFailureMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A7DEE62-1291-4A60-B918-FE76F1A6A30B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorldOfPAYBACKTests/WorldOfPAYBACKTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "testTransactionViewModelErrorState()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A7DEE62-1291-4A60-B918-FE76F1A6A30B - d3c2e5268229b8de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACKTests.WorldOfPAYBACKTests.testTransactionViewModelErrorState() -&gt; ()"
+                  moduleName = "WorldOfPAYBACKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACKTests/WorldOfPAYBACKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "4A7DEE62-1291-4A60-B918-FE76F1A6A30B - d3c2e526822985e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACKTests.WorldOfPAYBACKTests.testTransactionViewModelErrorState() -&gt; ()"
+                  moduleName = "WorldOfPAYBACKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACKTests/WorldOfPAYBACKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "4A7DEE62-1291-4A60-B918-FE76F1A6A30B - d3c2e526822985e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldOfPAYBACKTests.WorldOfPAYBACKTests.testTransactionViewModelErrorState() -&gt; ()"
+                  moduleName = "WorldOfPAYBACKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/move.ai/Work/PayBack/WorldOfPAYBACK/WorldOfPAYBACKTests/WorldOfPAYBACKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

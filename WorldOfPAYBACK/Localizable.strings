@@ -1,0 +1,11 @@
+"loading" = "Loading";
+"filter" = "Filter";
+"no_connection" = "No connection";
+"sum" = "SUM:";
+"retry" = "Try again";
+
+// Filters
+"none" = "None";
+"filter1" = "Filter 1";
+"filter2" = "Filter 2";
+"filter3" = "Filter 3";
